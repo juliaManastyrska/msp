@@ -40,13 +40,13 @@
             {
                 throw new Exception("Fig vam!!!");
             }
-            status = 0.5F;
+            
         }
         
          private double devide(double a, double b)
         {
             
-            return 1;
+                 return a/b;
         }
         
     }
