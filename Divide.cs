@@ -30,7 +30,11 @@
         }
 
 
-
+         private double devide(double a, double b)
+        {
+            status = 1;
+            return a/b;
+        }
         
     }
   }
